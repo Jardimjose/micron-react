@@ -41,7 +41,7 @@ export default function CenteredGrid() {
             <Grid container>
                 <Grid item xs={12}>
                     <Typography variant="h5" className="header-message">
-                        Chat
+                        Micron Chat
                     </Typography>
                 </Grid>
             </Grid>

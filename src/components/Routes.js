@@ -4,7 +4,7 @@ import {
     Route,
     Link
   } from "react-router-dom";
-import Chat from "./Home/Home"
+import Chat from "./Chat/Chat"
 import Login from "./Login/Login"
 
 export default function Routes(){
